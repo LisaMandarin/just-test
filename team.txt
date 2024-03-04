@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-link
-
-Lisasa
-=======
 https://trello.com/invite/userworkspace02343987/ATTI4983b4ccc59cd7af70b698b34f355b91CC9264CC
 
 Min-ting Chuang
->>>>>>> c3472ad4a1a362f894b1f1ae7a74d5f7538a00d5
+Lisasa 
